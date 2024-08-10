@@ -5,7 +5,7 @@
   
   <!-- About Me Section -->
   # 🙋🏻 About Me
-  👩🏻‍🎓 Studied Computer Software Engineering at the [Khujand Polytechnic Institute (https://www.facebook.com/KPITTU/), Tajikistan.<br/>
+  👩🏻‍🎓 Studied Computer Software Engineering at the [Khujand Polytechnic Institute](https://www.facebook.com/KPITTU/), Tajikistan.<br/>
   💼 Currently working at [Ambula Inc.](https://www.ambula.io/), where I contribute to developing dynamic web applications.<br/>
   📚 Currently expanding my knowledge in Node.js, NestJS, and Generative AI<br/><br/>
   
