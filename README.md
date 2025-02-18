@@ -5,12 +5,9 @@
   
   <!-- About Me Section -->
   # 🙋🏻 About Me
-  👩🏻‍🎓 Studied Computer Software Engineering at the [Khujand Polytechnic Institute](https://www.facebook.com/KPITTU/), Tajikistan.<br/>
+  👩🏻‍🎓 Studied Computer Software Engineering at the [Tajik Technical University]([https://www.facebook.com/KPITTU/](https://www.facebook.com/KPITTU/)).<br/>
   💼 Currently working at [Ambula Inc.](https://www.ambula.io/), where I contribute to developing dynamic web applications.<br/>
-  📚 Currently expanding my knowledge in Node.js, NestJS, and Generative AI<br/><br/>
-  
-  <!-- GitHub Stats Section -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kosimbekGH&theme=github_dark&show_icons=true)
+  📚 Always ready to expand my knowledge<br/><br/>
   
   <!-- Connect with Me Section -->
   # 🌐 Connect with Me
