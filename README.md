@@ -5,7 +5,7 @@
   
   <!-- About Me Section -->
   # 🙋🏻 About Me
-  👩🏻‍🎓 Studied Computer Software Engineering at the [Tajik Technical University]([https://www.facebook.com/KPITTU/](https://www.facebook.com/KPITTU/)).<br/>
+  👩🏻‍🎓 Studied Information Technology Software at the [Tajik Technical University]([https://www.facebook.com/KPITTU/](https://www.facebook.com/KPITTU/)).<br/>
   💼 Currently working at [Ambula Inc.](https://www.ambula.io/), where I contribute to developing dynamic web applications.<br/>
   📚 Always ready to expand my knowledge<br/><br/>
   
