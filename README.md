@@ -41,3 +41,5 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div
+
+![](https://komarev.com/ghpvc/?username=kosimbekGH)
